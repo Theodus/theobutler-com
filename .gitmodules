@@ -1,0 +1,6 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "static/files/cv"]
+	path = static/files/cv
+	url = git@github.com:theodus/cv
