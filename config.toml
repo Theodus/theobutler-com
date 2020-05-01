@@ -1,4 +1,4 @@
-baseurl = "http://www.theobutler.com"
+baseurl = "https://www.theobutler.com"
 title = "Theo Butler"
 languagecode = "en-us"
 defaultcontentlanguage = "en"
@@ -6,7 +6,7 @@ defaultcontentlanguage = "en"
 theme = "hugo-coder"
 
 paginate = 20
-canonifyurls = true
+canonifyurls = false
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
