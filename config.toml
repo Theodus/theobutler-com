@@ -1,4 +1,4 @@
-baseurl = "https://www.theobutler.com"
+# baseurl = "https://www.theobutler.com"
 title = "Theo Butler"
 languagecode = "en-us"
 defaultcontentlanguage = "en"
