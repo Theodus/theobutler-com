@@ -6,7 +6,7 @@ defaultcontentlanguage = "en"
 theme = "hugo-coder"
 
 paginate = 20
-canonifyurls = false
+canonifyurls = true
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
@@ -19,7 +19,7 @@ pygmentscodefencesguesssyntax = true
     # info = "TODO"
     description = "Theo Butler's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/dgd-acceptance-speech-2-head.png"
+    avatarurl = "/images/dgd-acceptance-speech-2-head.png"
 
     dateformat = "January 2, 2006"
     # footercontent = "TODO"
@@ -82,14 +82,14 @@ pygmentscodefencesguesssyntax = true
       [[languages.en.menu.main]]
         name = "About"
         weight = 1
-        url = "about/"
+        url = "/about"
       [[languages.en.menu.main]]
         name = "Posts"
         weight = 2
-        url = "posts/"
+        url = "/posts"
       [[languages.en.menu.main]]
         name = "Projects"
         weight = 3
-        url = "projects/"
+        url = "/projects"
 
 # https://github.com/luizdepra/hugo-coder/wiki/Configurations
