@@ -4,7 +4,7 @@ slug = "about"
 +++
 
 #### CV
-  - [PDF](/files/cv/cv.pdf)
+  - [PDF](/files/cv.pdf)
 
 #### Publications
 - Paul Liétar, *Theodore Butler*, Sylvan Clebsch, Sophia Drossopoulou, Juliana Franco, Matthew J. Parkinson, Alex Shamis,
